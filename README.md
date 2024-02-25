@@ -56,13 +56,3 @@ I hope to work with you in a long time.
 <a href="https://www.apachefriends.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"></a>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50"></a>
-
-## Stats
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=james-gates-0212&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=james-gates-0212&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=james-gates-0212&locale=en&theme=github-dark-blue&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=james-gates-0212&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
