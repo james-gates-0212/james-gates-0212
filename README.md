@@ -8,7 +8,7 @@ I was very interested in Web Application during my university period and the Lib
 I can work full time, 8+ hours a day, 6 days a week.
 I hope to work with you in a long time.
 
-![Views](https://komarev.com/ghpvc/?username=poprunner88&label=Views&color=blue&style=flat)
+![Views](https://komarev.com/ghpvc/?username=james-gates-0212&label=Views&color=blue&style=flat)
 
 ## Languages
 
@@ -59,12 +59,10 @@ I hope to work with you in a long time.
 
 ## Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=poprunner88&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=james-gates-0212&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poprunner88&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=james-gates-0212&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=poprunner88&locale=en&theme=github-dark-blue&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=james-gates-0212&locale=en&theme=github-dark-blue&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=poprunner88&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
-
-<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=poprunner88&locale=en&theme=react-dark&radius=5&&hide_border=true) -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=james-gates-0212&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
