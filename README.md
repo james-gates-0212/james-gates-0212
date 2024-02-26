@@ -7,5 +7,3 @@ I was very interested in Web Application during my university period and the Lib
 
 I can work full time, 8+ hours a day, 6 days a week.
 I hope to work with you in a long time.
-
-![Views](https://komarev.com/ghpvc/?username=james-gates-0212&label=Views&color=blue&style=flat)
