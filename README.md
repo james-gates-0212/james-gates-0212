@@ -15,4 +15,4 @@ I can work full time, 8+ hours a day, 6 days a week. I hope to work with you in 
 
 ![Views](https://komarev.com/ghpvc/?username=james-gates-0212&label=Views&color=blue&style=flat&abbreviated=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=james-gates-0212&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=james-gates-0212&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true&no-bg=true)
