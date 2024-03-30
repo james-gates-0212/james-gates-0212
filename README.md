@@ -13,6 +13,6 @@ Web Application Development is not only my job but also my life.
 
 I can work full time, 8+ hours a day, 6 days a week. I hope to work with you in a long time.
 
-![Profile views](https://komarev.com/ghpvc/?username=james-gates-0212&label=Profile+views&color=blue&style=flat&abbreviated=0)
+[![Profile views](https://komarev.com/ghpvc/?username=james-gates-0212&label=Profile+views&color=blue&style=flat&abbreviated=0)](#)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=james-gates-0212&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=darkhub)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=james-gates-0212&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=darkhub)](#)
