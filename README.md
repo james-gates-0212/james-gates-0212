@@ -1,6 +1,6 @@
-# 👋 Hello, I'm James Gates.
+# :wave: Hello, I'm James Gates.
 
-I'm James, **Senior Full Stack Developer** &amp; **SEO Expert** 👨&zwj;💻 working remotely since 2022 🚀
+I'm James, **Senior Full Stack Developer** & **SEO Expert** working remotely since 2022 :rocket:
 
 ## About me
 
@@ -17,6 +17,5 @@ I can work full time, 8+ hours a day, 6 days a week. I hope to work with you in 
 [![GitHub followers](https://img.shields.io/github/followers/james-gates-0212?style=flat)](#)
 [![GitHub User's stars](https://img.shields.io/github/stars/james-gates-0212?style=flat)](#)
 [![GitHub forks](https://img.shields.io/github/forks/james-gates-0212/james-gates-0212?style=flat)](#)
-
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=james-gates-0212&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=darkhub)](#)
