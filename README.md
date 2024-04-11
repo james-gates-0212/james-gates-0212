@@ -1,3 +1,5 @@
+[![Partnership](https://www.minethrive.com/assets/images/banner/b2.gif)](https://www.minethrive.com/?ref=K5a2q2LN)
+
 # :wave: Hello, I'm James Gates.
 
 I'm James, **Senior Full Stack Developer** & **SEO Expert** working remotely since 2022 :rocket:
