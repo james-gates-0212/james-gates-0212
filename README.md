@@ -1,4 +1,4 @@
-# :wave: Hello, I'm James Gates.
+# :wave: Hello, I'm Brian Salvatore.
 
 I'm James, **Senior Full Stack Developer** & **SEO Expert** working remotely since 2022 :rocket:
 
